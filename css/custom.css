@@ -47,4 +47,54 @@
 }
 
 
+.carousel-caption h1 {
+	font-family: 'Bangers', cursive;
+	font-size: 98px;
+	color: #ffbe00;
+}
 
+.carousel-caption p {
+	font-family: 'Bree Serif', serif;
+	font-size: 38px;
+	color:#ffbe00;
+}
+
+.btn-primary {
+	color: #ffbe00;
+    background-color: #C21313;
+    border-color: #ffbe00;
+    font-family: 'Bree Serif', serif;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+
+
+.col-lg-4  h2 {
+	font-family: 'Bangers', cursive;
+	color:#C21313;
+}
+
+
+.col-lg-4  p {
+	font-family: 'Slabo 27px', serif;
+	font-size: 30px;
+	color: #000000;
+	margin:0;
+	padding:0;
+	text-align: inherit;
+}
+
+.container-2 {
+	background-color: #cbcfdb;
+}
+.col-lg-4 .btn {
+	color: #ffbe00;
+    background-color: #C21313;
+    border-color: #ffbe00;
+    font-family: 'Bree Serif', serif;
+    font-size: 15px;
+}
+.col-md-7 h2 {
+	margin-top: 0;
+} 
